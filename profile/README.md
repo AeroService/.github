@@ -1,6 +1,8 @@
 ## Natrox.de
 
-- 👋 Hello, we are the Natrox.de team.
-- 📁 We're working on a powerful network like you've never seen before
-- 📢 We are always looking for active team members
-- 📫 You can reach us at https://discord.natrox.de
+Hi. 🎶 we are the natrox.de team.
+
+- 📫 We are an innovative and modern Minecraft network, which wants to create new things. 
+- 📜 For this we rely on the latest Minecraft version, but provide the possibility to connect to all versions from 1.16.
+- 🖥️ Sometimes we also work on open source projects, so stay up to date.
+- 📧 You can contact us at: developers@natrox.de or https://discord.natrox.de
